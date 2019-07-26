@@ -1,0 +1,27 @@
+.tile{
+	width: 34px;
+	height: 34px;
+	font-size: 24px;
+	font-family: Helvetica;
+}
+
+.gameBoard{
+	display: none;
+	width:100%;
+}
+.gameBoard td {
+	padding: 0px;
+	margin: 0px;
+	border: 0px;
+}
+.gameBoard button {
+	padding: 0px;
+	margin-right: 10px;
+	height: 34px;
+	width: 34px;
+	line-height: 24px;
+}
+
+.center{
+	margin: 0 auto;
+}
